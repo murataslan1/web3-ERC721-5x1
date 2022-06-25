@@ -1,4 +1,4 @@
-# Smart Contract Developer Bootcamp - İTÜ Blockchain Devs
+# Smart Contract Developer  - ITU Blockchain Devs
 
 In this lesson, we examined the ERC-721 token standard after ERC-20. After comparing it with ERC-20, we reviewed the standard contract prepared by OpenZeppelin. Then we wrote a simple ERC721 token contract.
 
